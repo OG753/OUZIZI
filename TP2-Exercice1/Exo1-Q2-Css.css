@@ -1,0 +1,93 @@
+h1
+{
+  color: crimson;
+  text-align: center;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px gray;
+}
+h2
+{
+  color: chocolate;
+  text-decoration: underline;
+  text-shadow: 2px 2px 5px rgb(172, 169, 169);
+}
+
+.sr1{
+    background-color: #d99694; 
+    border: 4px solid #295485;
+    height: 100px;
+    width: 100px; 
+}
+.sm1{
+    background-color: #c4bd97; 
+    border: 4px solid #295485;
+    height: 100px;
+    width: 100px; 
+}
+.sb1{
+    background-color: #558ed5;
+    border: 4px solid #295485;
+    height: 100px;
+    width: 100px; 
+}
+.sr2{
+    background-color: #d99694; 
+    border: 4px solid #295485;
+    height: 130px;
+    width: 300px; 
+}
+.sm2{
+    background-color: #c4bd97; 
+    border: 4px solid #295485;
+    height: 130px;
+    width: 140px; 
+}
+.sb2{
+    background-color: #558ed5;
+    border: 4px solid #295485;
+    height: 130px;
+    width: 140px; 
+}
+.sr3{
+    background-color:#d99694;
+    border: 4px solid #295485;
+    height: 130px;
+    width: 140px; 
+}
+.pos { top: 39%;}
+.pos1{ top: 57%; }
+
+.pos2{ left: 10%;}
+.pos3{ left: 17%;
+       top: 37%;}
+.pos4{ left: 24%;
+       top: 53%;}
+
+.pos5{ left: 35%;}
+.pos6{ left: 35%;
+       top: 44%;  }
+.pos7{ left: 47%;
+       top: 44% ; }
+
+.pos8{ left: 60%;}
+.pos9{ left: 60%;
+       top: 44% ; }
+.pos10{ left: 71%; }
+
+.pos11{ top: 15%;}
+
+.pos12{ top: 70%;}
+.pos13{ top: 72%;}
+.pos14{ top: 74%;}
+
+.pos15{ bottom: 45%; left: 15%;}
+.pos16{ bottom: 46%; left: 23%;}
+.pos17{ bottom: 47%; left: 31%;}
+
+.pos18{ bottom: 117%; left: 45%;}
+.pos19{ bottom: 115%; left: 45%;}
+.pos20{ bottom: 148%; left: 58%;}
+
+.pos21{ bottom: 230%; left: 75%;}
+.pos22{ bottom: 263%; left: 87%;}
+.pos23{ bottom: 261%; left: 75%;}
